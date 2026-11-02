@@ -33,7 +33,7 @@ At work, you can find me at [@lojasmm-carlosvarela](https://github.com/lojasmm-c
 - **Fullstack:** Inertia, Next.js
 - **Systems:** Rust, WebAssembly, C, C++
 - **Data:** PostgreSQL, MySQL, Prisma, SQLx
-- **Infra & tools:** Docker, Linux (WSL2, Ubuntu), Git, Zed, VS Code
+- **Infra & tools:** Docker, Linux (Ubuntu), WSL2, Git, Zed, VS Code
 - **Other:** Java, Kotlin, Unity, Arduino
 
 ## What I like working on
