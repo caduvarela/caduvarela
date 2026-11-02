@@ -8,6 +8,13 @@ At work, you can find me at [@lojasmm-carlosvarela](https://github.com/lojasmm-c
 [![Email](https://img.shields.io/badge/Email-caduvarela%40gmail.com-red?logo=gmail&logoColor=white)](mailto:caduvarela@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caduvarela/)
 
+## Some things I built
+
+- [**phpz**](https://github.com/caduvarela/phpz): PHP version manager with per-project extensions, no sudo
+- [**dockerstrator**](https://github.com/caduvarela/dockerstrator): directory-based docker compose orchestrator
+- [**simple-plantuml**](https://github.com/caduvarela/simple-plantuml): PlantUML editor and viewer in the browser
+- [**cansee-ayu**](https://github.com/caduvarela/cansee-ayu): Ayu-based editor theme with better contrast
+
 ## Stack
 
 - **Backend:** PHP, Laravel, Node.js, Express
