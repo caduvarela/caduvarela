@@ -28,13 +28,21 @@ At work, you can find me at [@lojasmm-carlosvarela](https://github.com/lojasmm-c
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- **Backend:** PHP, Laravel, Node.js, Express
-- **Frontend:** TypeScript, React, Sass, Electron
-- **Fullstack:** Inertia, Next.js
-- **Systems:** Rust, WebAssembly, C, C++
-- **Data:** PostgreSQL, MySQL, Prisma, SQLx
-- **Infra & tools:** Docker, Linux (Ubuntu), WSL2, Git, Zed, VS Code
-- **Other:** Java, Kotlin, Unity, Arduino
+<table>
+  <tr>
+    <td valign="top">
+      <b>Backend:</b> PHP, Laravel, Node.js, Express<br>
+      <b>Frontend:</b> TypeScript, React, Sass, Electron<br>
+      <b>Fullstack:</b> Inertia, Next.js<br>
+      <b>Systems:</b> Rust, WebAssembly, C, C++
+    </td>
+    <td valign="top">
+      <b>Data:</b> PostgreSQL, MySQL, Prisma, SQLx<br>
+      <b>Infra &amp; tools:</b> Docker, Linux (Ubuntu), WSL2, Git, Zed, VS Code<br>
+      <b>Other:</b> Java, Kotlin, Unity, Arduino
+    </td>
+  </tr>
+</table>
 
 ## What I like working on
 
