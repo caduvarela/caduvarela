@@ -1,3 +1,5 @@
+<img src="media/banner.svg" alt="Carlos Varela" width="100%" />
+
 # Hey, I'm Carlos Varela
 
 I solve problems for a living and build tools nobody asked for in my free time.
