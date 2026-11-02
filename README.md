@@ -5,8 +5,8 @@ They're mostly for me, and most exist because I needed something and nobody had 
 
 At work, you can find me at [@lojasmm-carlosvarela](https://github.com/lojasmm-carlosvarela).
 
-[![Email](https://img.shields.io/badge/Email-caduvarela%40gmail.com-red?logo=gmail&logoColor=white)](mailto:caduvarela@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caduvarela/)
+[![Email](https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:caduvarela@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caduvarela/)
 
 ## Some things I built
 
@@ -16,6 +16,10 @@ At work, you can find me at [@lojasmm-carlosvarela](https://github.com/lojasmm-c
 - [**cansee-ayu**](https://github.com/caduvarela/cansee-ayu): Ayu-based editor theme with better contrast
 
 ## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,react,nextjs,nodejs,rust,wasm,docker,postgres,linux&perline=11" alt="Main technologies" />
+</p>
 
 - **Backend:** PHP, Laravel, Node.js, Express
 - **Frontend:** TypeScript, React, Sass, Electron
